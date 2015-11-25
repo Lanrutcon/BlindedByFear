@@ -1,0 +1,14 @@
+## Interface: 40300
+## Title: BlindedByFear
+## Author: Lanrutcon
+## Version: 1.1
+## DefaultState: Enabled
+## Notes: To know what players listen
+## SavedVariables: BlindedByFearSV
+
+BlindedByFear.lua
+ChatThrottleLib.lua
+database.lua
+
+# Final Notes:
+# Run "BlindedByFear - DB Creator.jar", which is inside Music folder to update "database.lua"
